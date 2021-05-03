@@ -1,0 +1,1 @@
+See devfiles in this repository for using Eclipse IDE or IntelliJ IDEA as custom IDEs in CodeReady Workspaces.
